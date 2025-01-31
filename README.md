@@ -19,33 +19,34 @@ First of all, the spoofer seems to **only launch once** on a windows machine and
 
 ### Normal Spoof:
 ![image](https://github.com/user-attachments/assets/a8dedcfc-8b18-429b-9e9e-f0ede5de0f8e)
+
 1. Downloads AMIDEWINx64 (exe and sys), then changes a few serials depending on what motherboard you chose and then deletes AMIDEWINx64 again.
-[image]
 2. Downloads Volumeid64 (exe), then changes volume ids of drives C-F to random ones and then deletes Volumeid64 again.
-[image]
 3. Runs slmgr commands to uninstall the license.
-[image]
 
 ### ASUS Spoof
 ![image](https://github.com/user-attachments/assets/f81be862-e265-4025-8ac5-c57e07c831fb)
+
 Does the same as normal spoof, with the difference being that:
 - it changes a few more serials
 - it puts AMIDEWINx64 and a generated serial changer (AsDeviceCheck.bat) into C:\Windows\Vss\Writers
 - it creates a task to run this batch file on every boot (probably because ASUS resets these serials after every reboot)
-[image]
 
 ### MAC Spoof
 ![image](https://github.com/user-attachments/assets/fc6eab53-0471-4977-a6a9-0bd81b72cb1d)
-1. Checks if you have a Realtek or Intel network adapter using powershell, then:
+
+- Checks if you have a Realtek or Intel network adapter using powershell, then:
 --> FOR INTEL: Downloads eeupdatew64e and its driver, then changes mac addresses to random ones
 --> FOR REALTEK: I don't have a realtek network adapter, maybe you can find it out?
-[image]
 
 ### ASUS EFI
+![image](https://github.com/user-attachments/assets/abf2b46a-0134-4621-80e2-ae6e055d9a87)
+
 1. Opens a console window which asks you to enter the drive letter of a usb drive used for EFI spoofing.
 2. Downloads files onto that usb drive (EFI...) and tells you to boot from that usb drive.
 [image]
 
 ### SMBIOS Fixer
+![image](https://github.com/user-attachments/assets/25079505-c999-4e4d-8622-4833c74ad64d)
+
 - Does the same as normal spoof, with the difference being that it changes much more serials, also depending on what motherboard you chose.
-[image]
