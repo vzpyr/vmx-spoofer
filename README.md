@@ -14,6 +14,7 @@ I originally got it by a friend after I got hwid banned and haven't had any know
 
 # How it works
 ![image](https://github.com/user-attachments/assets/b4f245c5-9ead-41de-a435-38dfc4006420)
+
 First of all, the spoofer seems to **only launch once** on a windows machine and then never again (till you reset windows). Also it checks if it was tampered with by comparing the MD5. After launching it, a console window appears and hides again. Then the UI appears. which prompts you to enter a license key (which was easily bypassable using **8code's keyauth bypasser**).
 
 ### Normal Spoof:
@@ -34,9 +35,10 @@ Does the same as normal spoof, with the difference being that:
 [image]
 
 ### MAC Spoof
+![image](https://github.com/user-attachments/assets/fc6eab53-0471-4977-a6a9-0bd81b72cb1d)
 1. Checks if you have a Realtek or Intel network adapter using powershell, then:
 --> FOR INTEL: Downloads eeupdatew64e and its driver, then changes mac addresses to random ones
---> FOR REALTEK: ???
+--> FOR REALTEK: I don't have a realtek network adapter, maybe you can find it out?
 [image]
 
 ### ASUS EFI
