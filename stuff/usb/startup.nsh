@@ -1,0 +1,4 @@
+echo -on
+perm.efi /SU "A3988AE66F3927BB49AACC28AAEF1831"
+perm.efi /BS "201013248488517"
+exit
