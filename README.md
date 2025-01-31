@@ -8,6 +8,9 @@ Permanent HWID Spoofer developed by vmx.gg/vmxcheats.cc used to lift hwid bans o
 - Uses cdn (https://candyyboii.b-cdn.net/)
 
 **TL;DR: Average amidewin spoofer with a few other little features.**
+![image](https://github.com/user-attachments/assets/adb41126-a222-45ef-9d6a-9dc180a2cc6f)
+
+I'm not sure what the difference is between these too smbios editing tools (except for name and version), maybe you can help me out?
 
 # Introduction
 I originally got it by a friend after I got hwid banned and haven't had any knowledge about spoofers. I can't believe people still pay for these one-click spoofers even though there's enough resources for getting unbanned online. After tracing what it does using a few simple tools, here is what I found.
