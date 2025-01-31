@@ -3,8 +3,8 @@
 
 Permanent HWID Spoofer developed by vmx.gg/vmxcheats.cc used to lift hwid bans on primarily Fortnite
 - Currently being sold on their website for 9,99€ (lifetime)
-- Original exe: [Download here]
-- Recoded in batch: [Download here]
+- Original exe: [Download here](https://github.com/v1peeer/vmx-spoofer/releases/download/release/original.7z)
+- Recoded in batch: [Download here](https://github.com/v1peeer/vmx-spoofer/releases/download/release/recode.7z)
 - Uses cdn (https://candyyboii.b-cdn.net/)
 
 **TL;DR: Average amidewin spoofer with a few other little features.**
