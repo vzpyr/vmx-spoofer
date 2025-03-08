@@ -33,7 +33,7 @@ first of all, the spoofer seems to **only launch once** on a windows machine and
 ### asus efi
 ![image](https://github.com/user-attachments/assets/abf2b46a-0134-4621-80e2-ae6e055d9a87)
 - opens a console window which asks you for the drive letter of an usb drive
-- pushed files onto that usb drive and tells you to boot from that usb drive
+- pushes files onto that usb drive and tells you to boot from that usb drive
 
 ### smbios fixer
 ![image](https://github.com/user-attachments/assets/25079505-c999-4e4d-8622-4833c74ad64d)
