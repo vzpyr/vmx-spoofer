@@ -26,10 +26,9 @@ first of all, the spoofer seems to **only launch once** on a windows machine and
 
 ### mac spoof
 ![image](https://github.com/user-attachments/assets/fc6eab53-0471-4977-a6a9-0bd81b72cb1d)
-- checks if you have a realtek or intel network adapter using powershell, then
-
---> intel: downloads eeupdatew64e and then changes all mac addresses to random ones
---> realtek: ?
+- checks if you have a realtek or intel network adapter using powershell
+- intel: downloads eeupdatew64e and then changes all mac addresses to random ones
+- realtek: ?
 
 ### asus efi
 ![image](https://github.com/user-attachments/assets/abf2b46a-0134-4621-80e2-ae6e055d9a87)
