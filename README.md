@@ -6,8 +6,6 @@ reverse-engineering vmx spoofer
 # info
 - average amidewin spoofer with a few other little features
 - currently being sold on their [shopify store](https://170nbq-ed.myshopify.com/) for 13,95€ (onetime)/41,95€ (lifetime)
-- original: [download here](https://github.com/v1peeer/vmx-spoofer/releases/download/release/original.7z)
-- recode: [download here](https://github.com/v1peeer/vmx-spoofer/releases/download/release/recode.7z)
 - uses a cdn (https://candyyboii.b-cdn.net/)
 
 # features
